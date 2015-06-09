@@ -1,4 +1,4 @@
-reactTutorial
+reactTutorial (pdiniz)
 =============
 
 An intro tutorial on ReactJS, focused on building a Tic Tac Toe game.
